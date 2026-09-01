@@ -1,0 +1,19 @@
+{
+  "overview": "A live vehicle service operations dashboard for Instant Mechanic that lets an operations team monitor bookings, mechanics, customers, and revenue in real time.",
+  "features": [
+    "Live KPI dashboard with real-time booking stats",
+    "Analytics charts for bookings, revenue, and service categories",
+    "Searchable, filterable, sortable bookings data table",
+    "Mechanics and customers views with detail pages",
+    "Background simulator that advances bookings live",
+    "Dark mode and responsive layout"
+  ],
+  "category": "productivity",
+  "tags": [
+    "operations",
+    "dashboard",
+    "vehicle-service",
+    "real-time"
+  ],
+  "last_updated": "2026-08-31T17:13:30.075Z"
+}
